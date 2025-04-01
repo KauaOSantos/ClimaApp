@@ -41,7 +41,7 @@ const style = StyleSheet.create ({
     alignItems: "center",
     justifyContent: "center",
     flexDirection: "row",
-    gap: 8
+    gap: 8    
   },
 
   tituloBtn: {
