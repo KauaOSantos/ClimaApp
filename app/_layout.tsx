@@ -6,7 +6,7 @@ export default function RootLayout() {
     Montserrat_400Regular, 
     Montserrat_500Medium, 
     Montserrat_600SemiBold,
-    Montserrat_700Bold, 
+    Montserrat_700Bold,
   }); 
  
   // evita que o usuário veja a aplicação antes das fontes serem carregadas 
