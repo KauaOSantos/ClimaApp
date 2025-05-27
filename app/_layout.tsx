@@ -21,6 +21,7 @@ export default function RootLayout() {
       }}
       />
       <Stack.Screen name="cidades" options={{headerShown: false}} />
+      <Stack.Screen name="[cityName]" options={{headerShown: false}} />
     </Stack>
   );
 }
